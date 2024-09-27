@@ -1,5 +1,6 @@
 using System.Globalization;
 using Contracts.Entities;
+using Contracts.Services;
 
 namespace Contracts
 {
@@ -19,6 +20,19 @@ namespace Contracts
             double contractValue = double.Parse(Console.ReadLine() ?? "0", CultureInfo.InvariantCulture);
 
             Contract contract = new Contract(contractNumber, contractDate, contractValue);
+
+            Console.Write("Digite o número de parcelas: ");
+            int portions = int.Parse(Console.ReadLine() ?? "0");
+
+            ContractService contractService = new ContractService(new PaypalPaymentService());
+            contractService.processContract(contract, portions);
+
+            Console.WriteLine();
+            Console.WriteLine("Parcelas");
+            foreach (Portion portion in contract.portions)
+            {
+                Console.WriteLine(portion);
+            }
         }
     }
 }

@@ -1,0 +1,15 @@
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/bin/Debug/net6.0/Contract
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/bin/Debug/net6.0/Contract.deps.json
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/bin/Debug/net6.0/Contract.runtimeconfig.json
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/bin/Debug/net6.0/Contract.dll
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/bin/Debug/net6.0/Contract.pdb
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.csproj.AssemblyReference.cache
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.AssemblyInfoInputs.cache
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.AssemblyInfo.cs
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.csproj.CoreCompileInputs.cache
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.dll
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/refint/Contract.dll
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.pdb
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/Contract.genruntimeconfig.cache
+/home/rodrigo.rocha@bwtech.int/Documentos/c-sharp/Contract/obj/Debug/net6.0/ref/Contract.dll
